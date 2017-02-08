@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
+import { BootCompsComponent } from './boot-comps/boot-comps.component';
 
 @Component({
   selector: 'app-root',
